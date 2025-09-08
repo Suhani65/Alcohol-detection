@@ -12,7 +12,6 @@ The system was integrated with a cloud server for data logging and analysis, ens
 
 
 At this point of automation development, the main focus is eliminating human involvement entirely. This is where things get straightforward because self-driving vehicles can easily be used for personal travel, public transport, or heavy freight. Not only that, but the fact that it can also be integrated anywhere due to an easily expandable design, indicates that it would be a solid fix to ADAS drive assisted accidents. And I have to add because they integrate well with many advanced international programs about making transport more intelligent and more secure.
-At this point of automation development, the main focus is eliminating human involvement entirely. This is where things get straightforward because self-driving vehicles can easily be used for personal travel, public transport, or heavy freight. Not only that, but the fact that it can also be integrated anywhere due to an easily expandable design, indicates that it would be a solid fix to ADAS drive assisted accidents. And I have to add because they integrate well with many advanced international programs about making transport more intelligent and more secure.
 
 1.
 Smith, J., & Doe, A. "Driver Alcohol Detection System Using Embedded Technology," International Journal of Advanced Research in Electronics and Communication Engineering, 2019, pp. 45-50.
